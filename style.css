@@ -1,0 +1,25 @@
+* { font-family: 'Architects Daughter', cursive;
+	font-style: italic;
+	color: white;
+ }
+
+body { 
+	text-align: center;
+	font-size: 72px;
+	height: 100%;
+}
+
+html {
+	height: 100%;
+}
+
+
+.container {
+	text-align: center;
+	height: 100%;
+	display: flex;
+	justify-content: center; 
+	align-items: center;
+
+
+}
